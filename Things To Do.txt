@@ -1,0 +1,27 @@
+
+Roundbuilder: buzzerRound? checkbox check/uncheck on open round
+
+END Round
+Buzzer Integration - TEST to know whats remaining
+WOF Round
+Image Round Modification
+
+scores - Can show bar chart as podium thingi ?
+
+DONE NAVIGATE buttons in Round builder as messing with values.
+DONE Negative Points
+DONE hangman Round
+DONE CAT like Round
+DONE Timer Integration
+Done - Rapidfire
+========== Hangman round =======
+DONE LINE BREAK ESCAPE SEQUENCE IS IMPORTANT WHEN BUILDING ROUND QUESTIONS
+====================
+++++++++++++++++++
+Timer Starts When -
+Done Question is asked
+Timer Stops When -
+Done Question is Answered
+Done Question is Passed to other team
+Done Timeout is happened
+++++++++++++++++++

@@ -1,0 +1,46 @@
+
+*******************
+19/02/2010
+
+ALWAYS REBUILD BEFORE DISTRIBUTE
+
+Informed Shri,Shukla on 10:20AM ::: There are no extra questions in Image and Audio Rounds!!
+Informed Shri,Shukla on 10:20AM ::: Images should be larger
+find a better background if possible
+Level Up and down bars for highstakes
+Build About Form
+
+
+Partially Done:::Check if All the rounds individually
+Partially Fixed:::Look at Edit Scores Form :: Testing not done
+Fixed::: NO ::WheelOfFortune has negative points ? Check. In software its -10. Change XML file
+Fixed:::show flash at startup if possible
+Fixed:::Check if all the question-answers are fitting in labels
+Fixed:::WheelofFortune question order
+Fixed:::set default values to unused textboxes in roundbuilder
+Fixed:::add wofCat attribute to round builder
+Fixed:::Fix roundbuilder tab order
+Fixed:::Modify Image round
+Fixed:::Decrease showTeamName-after-buzzer-press interval
+Fixed:::scoresForm will not close on openeing other rounds
+Fixed:::Add buzzer sound to buzzer-show-team form
+Workaround::SelectedName gets stuck on display form. ::: Solution- Go slow. There is no other way.
+
+******************** 
+
+Fixed:::Prepare Question in Highstakes should not deselect team
+
+Fixed:::Disable Selected team in prepare question
+
+Fixed:::add a button to gain device control
+
+Fixed:::form1.vb::setCurrentTeam CrossThread operation not valid error
+Media form line 89
+
+Fixed:::audio round team name doesnt stay at place
+
+Fixed:::audio round timer started at 1
+
+Fixed:::hangman round Count position
+
+Fixed:::Rapidfire : Prepare question button

@@ -1,0 +1,38 @@
+prepare question = load wheel
+select team
+start polling
+team presses the buzzer
+start spinning the wheel [add random multiplier]
+
+Have a combobox in Control Panel form
+Select category
+next question
+start question timer
+show answer
+
+answerd? finalize
+
+
+prepare question
+select team
+..
+..
+..
+
+things to change - 
+
+Round Builder:
+Add a textbox for category
+add category attribute to each question while building file
+
+in form1:
+while reading all questions
+add category attribute to custom private class
+
+
+general common flow:
+prepare question
+select team
+next question [ if isBuzzerRound:polling=true ]
+show answer
+if answered ? finalize
